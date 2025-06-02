@@ -1,4 +1,4 @@
-<h1>Aplicação de console em Java que busca e cataloga livros da API Gutendex (baseada no Project Gutenberg).</h1>
+<h1>Aplicação de console em Java que busca e cataloga livros da API Gutendex.</h1>
 
 um progeto feito para apresndizagem de uso de Banco de Dados e Spring Framework  
 
